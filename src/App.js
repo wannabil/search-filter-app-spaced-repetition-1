@@ -16,6 +16,7 @@ function App() {
 
 export default App;
 
-// onForm
+// dataset, id: name: email:
+// e.target.value
 // use filter
-//  
+// .map
